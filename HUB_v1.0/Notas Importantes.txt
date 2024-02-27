@@ -1,6 +1,0 @@
-
-El SIM700G soldado funciona por defecto a 57600
-El Modulo enchufable 7000G funciona por defecto a 115200.
-El Modulo enchufable 7000G no funciona con una daptador FTDI !  Si fuinciona enviandole comandos con un uC.
-El Modulo enchufable 7000G Hay qeu forzar el modo de trabajo en CAT-M !!!  ya que si se deja en automatico, no agarra RED !!!
-

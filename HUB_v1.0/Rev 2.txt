@@ -1,9 +1,0 @@
-
-Errores v2
-SW1: Ponerle un antirebote
-agregar posibilidad de reset por hard al modulo
-
-
-
-
-

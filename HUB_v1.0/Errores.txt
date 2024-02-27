@@ -1,4 +1,0 @@
-
-- El modulo de display se alimenta con 5V.  Tiene que tener un regulador ates, sino vria el contraste.
-- Mejorar la alimentacion, para que sea con 9V  o sino que tenga un stepdown a la entrada
-
